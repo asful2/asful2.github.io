@@ -10,5 +10,4 @@
 - [Week 8](./week2.md).
 - [Week 9](./week2.md).
 - [Week 10](./week2.md).
-- [Week 1](./week2.md).
-- [Week ]3(./week2.md).
+- [Week 11](./week2.md).
